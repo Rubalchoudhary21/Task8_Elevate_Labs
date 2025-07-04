@@ -24,8 +24,8 @@ Understand the role of VPNs in protecting online privacy and securing communicat
 ---
 
 ## 🖼️ Screenshots
-- **VPN Connected:** New IP address visible.
-- **VPN Disconnected:** Original IP address visible.
+- **VPN Connected:** (New IP address visible)
+- **VPN Disconnected:** (Original IP address visible)
 
 ---
 
